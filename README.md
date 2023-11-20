@@ -1,4 +1,4 @@
-<h2>AutoScore <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="20" height="20"/></h2>
+<h2 align="center">AutoScore <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="20" height="20"/></h2>
 
 
 <p>Our project aids teaching assistance by automating the process of grading assignments for a Java course, marking the code, and seamlessly submitting the grades to MyLearningSpace.</p>
