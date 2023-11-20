@@ -2,7 +2,7 @@
 
 
 
-<p align="center"  width="100"><img src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/a542f062-821b-49c8-ad2d-408c1496b907"/></p>
+<p align="center"><img height="300px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/a542f062-821b-49c8-ad2d-408c1496b907"/></p>
 
 
 
