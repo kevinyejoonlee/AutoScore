@@ -14,10 +14,10 @@
     </p>
     </li>
     <li>
-        Student .zip - Zip with all of the students assignments <br>
-        Answers .zip - Solutions to assignment <br>
-        Output Folder - Empty Folder for calculations <br>
-        Assignment Name - Title of the CSV <br>
+        Student .zip - zip with all of the students assignments <br>
+        Answers .zip - solutions to assignment <br>
+        Output Folder - empty Folder for calculations <br>
+        Assignment Name - title of the CSV <br>
         <p align="center"> 
             <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/41078f55-be0b-4bb0-bb1c-0d196d5402a6"/>
         </p>
