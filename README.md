@@ -1,6 +1,6 @@
-<h1 align="center"> AutoScore <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="20" height="20"/></h1>
+<h1> AutoScore <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="20" height="20"/></h1>
 
-<p align="center"><img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/a542f062-821b-49c8-ad2d-408c1496b907"/></p>
+<p "><img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/a542f062-821b-49c8-ad2d-408c1496b907"/></p>
 <hr>
 <p>Our project aids teaching assistance by automating the process of grading assignments for a Java course, marking the code, and seamlessly submitting the grades to MyLearningSpace.</p>
 <hr>
@@ -9,7 +9,7 @@
 <p>1 .User selects programming language of the assignment to grade.
 </p>
 
-<div align="center"> 
+<div> 
     <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/85bb85ed-cf8f-4476-b79f-519b17957f8e"/>
 </div>
 
