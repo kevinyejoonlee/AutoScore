@@ -13,10 +13,11 @@
         <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/85bb85ed-cf8f-4476-b79f-519b17957f8e"/>
     </p>
     </li>
-    <li> Student .zip - list of <br>
-        Answers .zip - list of <br>
-        Output Folder - list of <br>
-        Assignment Name - Used for <br>
+    <li> Contained in demo <br>
+        Student .zip - Zip with all of the students assignments <br>
+        Answers .zip - Solutions to assignment <br>
+        Output Folder - Empty Folder for calculations <br>
+        Assignment Name - Title of the CSV <br>
         <p align="center"> 
             <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/41078f55-be0b-4bb0-bb1c-0d196d5402a6"/>
         </p>
