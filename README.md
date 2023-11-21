@@ -5,7 +5,7 @@
 <p>Our project aids teaching assistance by automating the process of grading assignments for a Java course, marking the code, and seamlessly submitting the grades to MyLearningSpace.</p>
 <hr>
 
-## How it Works 💻
+## How it Works 
 
 
 <ol>
@@ -27,11 +27,9 @@
 
 
 
+## Contributors 🎤
 
 
-
-
-<h3> Contributors 🎤</h3>
 <ul>
     <li>Fernando (<a href="https://github.com/FGNV18">FGNV18</a>)</li>
     <li>Kevin (<a href="https://github.com/kevinyejoonlee">kevinyejoonlee</a>)</li>
