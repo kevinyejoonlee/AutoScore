@@ -1,9 +1,9 @@
 <h2 align="center"> AutoScore <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="20" height="20"/></h2>
 
 <p align="center"><img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/a542f062-821b-49c8-ad2d-408c1496b907"/></p>
-<hr>
 <p>Our project aids teaching assistance by automating the process of grading assignments for a Java course, marking the code, and seamlessly submitting the grades to MyLearningSpace.</p>
 
+<hr>
 
 ## How it Works 
 
