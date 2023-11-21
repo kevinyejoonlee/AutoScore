@@ -13,7 +13,7 @@
         <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/85bb85ed-cf8f-4476-b79f-519b17957f8e"/>
     </p>
     </li>
-    <li> Contained in demo <br>
+    <li>
         Student .zip - Zip with all of the students assignments <br>
         Answers .zip - Solutions to assignment <br>
         Output Folder - Empty Folder for calculations <br>
