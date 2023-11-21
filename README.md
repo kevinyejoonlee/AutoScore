@@ -27,6 +27,8 @@
 </ol>
 
 
+![image](https://github.com/kevinyejoonlee/AutoScore/assets/73869929/dda5a4d8-1f01-456c-bf17-0bba3af4a0fa)
+![image](https://github.com/kevinyejoonlee/AutoScore/assets/73869929/f9d988d0-c33b-43ba-9dc6-2d324d5bf91a)
 
 ## Contributors 🎤
 
