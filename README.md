@@ -17,7 +17,6 @@
         Answers .zip - list of <br>
         Output Folder - list of <br>
         Assignment Name - Used for <br>
-
         <p align="center"> 
             <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/41078f55-be0b-4bb0-bb1c-0d196d5402a6"/>
         </p>
