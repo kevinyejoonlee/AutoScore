@@ -5,7 +5,8 @@
 <p>Our project aids teaching assistance by automating the process of grading assignments for a Java course, marking the code, and seamlessly submitting the grades to MyLearningSpace.</p>
 <hr>
 
-<h3 >How it Works</h3>
+How it Works 💻
+======================
 
 <ol>
     <li>User selects programming language of the assignment to grade.   
