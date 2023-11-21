@@ -13,7 +13,6 @@
         <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/85bb85ed-cf8f-4476-b79f-519b17957f8e"/>
     </p>
     </li>
-
     <li> Student .zip - list of <br>
         Answers .zip - list of <br>
         Output Folder - list of <br>
@@ -22,7 +21,7 @@
             <img height="250px" src="https://github.com/kevinyejoonlee/AutoScore/assets/73869929/41078f55-be0b-4bb0-bb1c-0d196d5402a6"/>
         </p>
     </li>
-  
+
 </ol>
 
 
